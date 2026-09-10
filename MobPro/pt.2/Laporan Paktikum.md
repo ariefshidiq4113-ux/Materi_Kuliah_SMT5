@@ -38,3 +38,4 @@ Setelah menyelesaikan modul praktikum ini, saya mampu:
   - Tempat Tanggal Lahir
   - Cita-Cita
   - Rencana Hidup
+   <img src = "image-4.png">

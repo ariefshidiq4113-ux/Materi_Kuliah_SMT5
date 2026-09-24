@@ -288,4 +288,4 @@ Menampilkan pengaturan style untuk popup detail riwayat dan tombol Tutup.
 
 Menampilkan hasil akhir aplikasi setelah seluruh komponen dan fitur berhasil diterapkan.
 
-**[Masukkan Screenshot hasil akhir aplikasi di sini]**
+![alt text](<Screen Recording Project.gif>)

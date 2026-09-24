@@ -30,7 +30,7 @@ const PROFILE = {
   location: 'Cirebon, Jawa Barat',
   bio: 'Mahasiswa Informatika yang tertarik pada mobile development dan UI/UX.',
   // URL gambar dari internet (avatar online)
-  avatar: 'https://lh3.googleusercontent.com/a/ACg8ocLVUzVXyzgBaqA1cLQgf0OYyYV2o1PRai4fZIBdQrayZ9jSVl92=s521-c-mo',
+  avatar: 'https://lh5.googleusercontent.com/-HAthUxAbjvM/AAAAAAAAAAI/AAAAAAAAAAA/ifyqhHeQnfk/s64-c-mo/photo.jpg',
 };
 
 const SKILLS = [

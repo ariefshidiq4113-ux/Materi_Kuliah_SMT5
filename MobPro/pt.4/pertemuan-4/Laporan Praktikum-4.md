@@ -81,6 +81,6 @@ Menginstal pustaka **Drawer Navigator** untuk membuat menu navigasi berbentuk pa
 ### Langkah 2: Konfigurasi Drawer di App.js
 Mengatur halaman yang akan ditampilkan pada Drawer Navigation dan menjalankan aplikasi untuk menguji menu samping.
 
-<video controls src="Recording 2026-09-30 235141.mp4" title="Title"></video>
+[Tonton video konfigurasi Drawer](./Recording%202026-09-30%20235141.mp4)
 
 ---

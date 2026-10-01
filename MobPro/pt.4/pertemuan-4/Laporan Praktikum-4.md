@@ -44,8 +44,9 @@ Membuat halaman **Signup** sebagai halaman pendaftaran pengguna.
 ### Langkah 3: Uji Coba Stack Navigation
 Menjalankan aplikasi dan menguji perpindahan dari halaman Login ke Signup serta kembali ke halaman sebelumnya menggunakan tombol navigasi.
 
-<video controls src="Recording 2026-09-30 225954.mp4" title="Title"></video>
-
+<video controls width="100%">
+  <source src="Recording 2026-09-30 225954.mp4" type="video/mp4">
+</video>
 ---
 
 # PRAKTIKUM 2: Bottom Tab Navigation
@@ -68,8 +69,9 @@ Membuat halaman **Profile** yang akan ditampilkan pada menu Profile.
 ### Langkah 3: Konfigurasi Tab di App.js
 Mengatur halaman Home dan Profile ke dalam navigasi tab sehingga pengguna dapat berpindah halaman melalui menu bagian bawah.
 
-<video controls src="Recording 2026-09-30 233217.mp4" title="Title"></video>
-
+<video controls width="100%">
+  <source src="Recording 2026-09-30 233217.mp4" type="video/mp4">
+</video>
 ---
 
 # PRAKTIKUM 3: Drawer Navigation
@@ -81,5 +83,6 @@ Menginstal pustaka **Drawer Navigator** untuk membuat menu navigasi berbentuk pa
 ### Langkah 2: Konfigurasi Drawer di App.js
 Mengatur halaman yang akan ditampilkan pada Drawer Navigation dan menjalankan aplikasi untuk menguji menu samping.
 
-<video controls src="Recording 2026-09-30 235141-1.mp4" title="Title"></video>
-
+<video controls width="100%">
+  <source src="Recording 2026-09-30 235141-1.mp4" type="video/mp4">
+</video>
